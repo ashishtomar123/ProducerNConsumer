@@ -1,0 +1,11 @@
+project/plugins/project
+project/boot/*
+*/project/build/target
+*/project/boot
+target
+.DS_Store
+*.iml
+.project
+.settings
+.classpath
+.idea
